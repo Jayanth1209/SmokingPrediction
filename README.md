@@ -37,7 +37,7 @@ Assuming your are using linux based system and has installed Anaconda distributi
 1. Cloning the repo
 
 ```
-git clone https://github.com/sivachandanc/SmokerStatusPrediction
+git clone https://github.com/Jayanth1209/SmokingPrediction.git
 
 ```
 ```
@@ -105,8 +105,7 @@ I am a highly motivated data engineer with 4 years of experience in designing, b
 
 
 ## 🔗 Links
-[![Medium](https://img.shields.io/badge/medium-medium-black)](https://sivachandanc.medium.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-chandan-chakka/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-l-a58753230/)
 
 ## License
 
