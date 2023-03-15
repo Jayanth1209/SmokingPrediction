@@ -30,7 +30,7 @@ source ~/.bashrc
 conda init
 
 # Clone the git repository
-git clone https://github.com/sivachandanc/SmokerStatusPrediction.git
+git clone https://github.com/jayanth1209/SmokerStatusPrediction.git
 cd SmokerStatusPrediction
 
 # Create the logs folder
